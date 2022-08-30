@@ -13,4 +13,4 @@
 
 <h3> My Projects </h3>
 
-<a href="https://isamardzija.github.io/Themes/Quae/index.html">Quae CSS Theme</a>
+<a href="https://isamardzija.github.io/Themes">Custom CSS Themes</a>
