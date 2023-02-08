@@ -4,7 +4,13 @@
 
 **Projects:**
 
-[Frontend Mentor](https://isamardzija.github.io/FrontendmentorIO/)
-
+[Dictionary](https://isamardzija.github.io/dictionary/)
 
 [Todoloo](https://isamardzija.github.io/todoloo/)
+
+[Song Fetch](https://isamardzija.github.io/song-fetch/)
+
+[Frontend Mentor Projects](https://isamardzija.github.io/FrontendmentorIO/)
+
+
+
