@@ -1,8 +1,5 @@
 
-**Contact Info:**
-[Github](https://github.com/isamardzija) || [Twitter](https://twitter.com/i_samardzija) 
-
-**Projects:**
+# **Projects:**
 
 [Dictionary](https://isamardzija.github.io/dictionary/)
 
@@ -13,4 +10,5 @@
 [Frontend Mentor Projects](https://isamardzija.github.io/FrontendmentorIO/)
 
 
-
+## **Contact Info:**
+[Github](https://github.com/isamardzija) || [Twitter](https://twitter.com/i_samardzija) 
