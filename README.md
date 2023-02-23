@@ -3,7 +3,8 @@
 
 <h2>I’m currently working on:</h2>
 <ul>
-  <li><a href="https://github.com/isamardzija/misija-web" target="blank"><b>MiSiJa</b></a><span>, a fully responsive website for a local youth organisation with a CMS for dynamic content insertion.</span></li>
+  <li><a href="https://edisi.netlify.app/" target="blank"><b>eDisi</b></a><span>, a chat application built in React with lots of fun freatures.</span></li>
+  <li><a href="https://github.com/isamardzija/misija-web" target="blank"><b>MiSiJa</b></a><span>, a website for a local youth organisation with a proper CMS behind it.</span></li>
     <li><a href="https://github.com/isamardzija/dictionary" target="blank"><b>Dictionary</b></a><span>, an online English dictionary web app based on the Free Dictionary API.</span></li>  
 </ul>
 
