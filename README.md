@@ -11,7 +11,8 @@
 
 <h2>Some fun side projects:</h2>
 <ul>
-     <li><a href="https://github.com/isamardzija/dictionary" target="blank"><b>Dictionary</b></a><span>, an online English dictionary web app based on the Free Dictionary API.</span></li>  
+     <li><a href="https://github.com/isamardzija/dictionary" target="blank"><b>Dictionary</b></a><span>, an online English dictionary web app based on the Free Dictionary API.</span></li>
+  <li><a href="https://github.com/isamardzija/inCalc" target="blank"><b>inCalc</b></a><span>, an app for calculating car insurance premium built in React.</span></li>
 </ul>
 
 <h2 align="left">Connect with me:</h2>
