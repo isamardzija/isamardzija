@@ -5,7 +5,7 @@
 <ul>
   <li><a href="https://github.com/isamardzija/eDisi" target="blank"><b>eDisi</b></a><span>, a real-time chat web application built in React that allows users to easily communicate with each other.</span></li>
   <li><a href="https://github.com/isamardzija/misija-astro" target="blank"><b>MiSiJa</b></a><span>, a responsive website with a user-friendly content management system designed for a youth organization.</span></li>
-    <li><a href=https://github.com/isamardzija/dvd-sikirevci-astro-payloadcms" target="blank"><b>DVD Sikirevci</b></a><span>, a responsive website for a volunteer firedepartment.</span></li>
+  <li><a href="https://github.com/isamardzija/dvd-sikirevci-astro-payloadcms" target="blank"><b>DVD Sikirevci</b></a><span>, a responsive website for a local volunteer firedepartment.</span></li>
 
 </ul>
 
