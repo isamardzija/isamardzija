@@ -3,7 +3,7 @@
 
 <h2>I’m currently working on:</h2>
 <ul>
-  <li><a href="https://github.com/isamardzija/eDisi" target="blank"><b>eDisi</b></a><span>, a real-time chat web application built in React that allows users to easily communicate with each other.</span></li>
+
   <li><a href="https://github.com/isamardzija/misija-astro" target="blank"><b>MiSiJa</b></a><span>, a responsive website with a user-friendly content management system designed for a youth organization.</span></li>
   <li><a href="https://github.com/isamardzija/dvd-sikirevci-astro-payloadcms" target="blank"><b>DVD Sikirevci</b></a><span>, a responsive website for a local volunteer firedepartment.</span></li>
 
@@ -13,6 +13,7 @@
 <ul>
      <li><a href="https://github.com/isamardzija/dictionary" target="blank"><b>Dictionary</b></a><span>, an online English dictionary web app based on the Free Dictionary API.</span></li>
   <li><a href="https://github.com/isamardzija/inCalc" target="blank"><b>inCalc</b></a><span>, an app for calculating car insurance premium built in React.</span></li>
+    <li><a href="https://github.com/isamardzija/eDisi" target="blank"><b>eDisi</b></a><span>, a real-time chat web application built in React that allows users to easily communicate with each other.</span></li>
 </ul>
 
 <h2 align="left">Connect with me:</h2>
